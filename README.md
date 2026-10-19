@@ -10,7 +10,11 @@ PGD adversarial training on the image branch (white-box threat model). Converter
 for three further meme datasets (MAMI, HarMeme, MultiOFF) allow the same
 pipeline to run beyond Hateful Memes.
 
-## Poster
+## Report and poster
+
+The final project report is [`docs/report.pdf`](docs/report.pdf): the
+robustness audit, the KL-consistency + text-modality-dropout defense, the
+adversarial-training study and the combined model.
 
 The final project poster is [`docs/poster.pdf`](docs/poster.pdf) (drafts in
 `project_planning/poster_build/`, figures in `project_planning/poster_figures/`,
